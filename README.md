@@ -7,20 +7,25 @@
 -😄 Pronouns: we
 -⚡ Fun fact: We first met virtually on the Lunar New Year.
 
-## Hello, everyone from around the world!    We are looking for teammates.  We would like to invite you to join us!!!  
+## Hello, everyone from around the world! We, the Qerberos team, are on the lookout for new teammates and would love for you to join us!
 
-## We are the Qerberos team: 1 cybersecurity professional with diverse backgrounds in Computer Science (python programming), cybersecurity, math and management, and 1 Quantum Machine Learning engineer . We are Angus Chen, and Sabarikirishwaran Ponnambalam (Sabari). We are looking for 2 teammates with strong quantum physics/computing experience.  
+We are Angus Chen and Sabarikirishwaran Ponnambalam (Sabari), comprising a Quantum Machine Learning engineer and a cybersecurity professional with diverse backgrounds in cybersecurity, mathematics, and management. Currently, we are seeking two teammates with strong expertise in quantum physics and computing.
 
-Angus has been working on interdisciplinary cybersecurity problem sets in digital twin, quantum computing, or AI. One of my current projects is leading an Innovative Investigator proposal on cybersecurity of critical infrastructure - power grid with Cyber@ MIT Sloan (Dr. Michael Siegel and Dr. Ranjan Pal) and a few researchers.  Another pet project is to write a chapter published by Springer that I co-authored with Dr. Stephane Mondoloni, who is an MIT alumni for the Father of Digital Twins, Dr. Michael Grevies, and Dr. Ed Hua.
+Angus has been tackling interdisciplinary problem sets in cybersecurity, including projects on the cybersecurity of critical infrastructure like the power grid, in collaboration with Cyber@ MIT Sloan, USC, and several researchers. Additionally, Angus is co-authoring a chapter on digital twins, set to be published by Springer, with Dr. Stephane M with a Ph.D. from MIT for Dr. Michael Grieves, the father of digital twins.
 
-Sabari has 2+ years of experience in quantum. his area of expertise is with QML. Previous, He developed QGAN for small molecular drug generation using qiskit and pennylane. Currently working at qubrid developing on hybrid classical quantum algorithms for real world applications. he has experience in working with cuQuantum as well
+Sabari brings over two years of experience in the quantum field, specializing in Quantum Machine Learning (QML). Previously, he developed a Quantum Generative Adversarial Network (QGAN) for small molecular drug generation using Qiskit and PennyLane and is currently working at Qubrid on developing hybrid classical-quantum algorithms for real-world applications. He also has experience working with cuQuantum.
 
 
 ## In addition to the virtual challenge, there are 3 challenges this team faces in this hackathon: 
-## 1) The knowledge of quantum computing, 
-## 2) The caliber of participants, 
-## 3) our first time working together. 
-## Since this hackathon time is finite, we would like to take on only one of 3 challenges, which is working together well. By doing that, we build a better team to take on other hackathons and Capture the Flag (CTF).
+## 1. The knowledge of quantum computing, 
+## 2. The caliber of participants, 
+## 3.  our first time working together. 
+## However, we can mitigate challenges 1. and 2. through our strategy for the hackathon.
+## 1. We can learn and implement any QML architecture/adjust parameters/fine-tune. We can manage the risk in this area by choosing a simple architecture to start with and work our way up.
+## 2. This is something we cannot control but we can resolve this by clearly defining our deliverables. This can reduce the risk of overestimations.
+## 3. We can have as much time with the other teams before the challenge to figureout optimal way to work/communicate together. Maybe attempting the coding challenge this week can help figure out this part.
+
+We're excited to expand our team with individuals passionate about advancing quantum computing and its applications. If you have a strong background in quantum physics or computing and are looking for an adventurous team to join, we'd love to hear from you!
 
 Name: Angus Chen www.linkedin.com/in/anguschencybersecurity
 * I am interested in making the world a safer place. 
