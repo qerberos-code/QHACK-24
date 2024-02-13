@@ -23,7 +23,7 @@ Sabari brings over two years of experience in the quantum field, specializing in
 ## However, we can mitigate challenges 1. and 2. through our strategy for the hackathon.
 ## 1. We can learn and implement any QML architecture/adjust parameters/fine-tune. We can manage the risk in this area by choosing a simple architecture to start with and work our way up.
 ## 2. This is something we cannot control but we can resolve this by clearly defining our deliverables. This can reduce the risk of overestimations.
-## 3. We can have as much time with the other teams before the challenge to figureout optimal way to work/communicate together. Maybe attempting the coding challenge this week can help figure out this part.
+## 3. Since this hackathon time is finite, we would like to focus on working together well. By doing that, we build a better team to take on other hackathons and Capture the Flag (CTF). We can also have as much time with the other teams before the challenge to figureout optimal way to work/communicate together. Maybe attempting the coding challenge this week can help figure out this part.  
 
 We're excited to expand our team with individuals passionate about advancing quantum computing and its applications. If you have a strong background in quantum physics or computing and are looking for an adventurous team to join, we'd love to hear from you!
 
