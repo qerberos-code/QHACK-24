@@ -1,11 +1,11 @@
 # QHACK-24
--👋 Hi, We're Qerberos Team-QHACK 24
--👀 We're interested in quantum  Machine Learning
--🌱 We're  currently learning quantum computing
--💞️ We're  looking to collaborate on hackathon and CTF.
--📫 How to reach us @qerberos-code-QHACK24
--😄 Pronouns: we
--⚡ Fun fact: We first met virtually on the Lunar New Year.
+- 👋 Hi, We're Qerberos Team-QHACK 24
+- 👀 We're interested in quantum  Machine Learning
+- 🌱 We're  currently learning quantum computing
+- 💞️ We're  looking to collaborate on hackathon and CTF.
+- 📫 How to reach us @qerberos-code-QHACK24
+- 😄 Pronouns: we
+- ⚡ Fun fact: We first met virtually on the Lunar New Year.
 
 ## Hello, everyone from around the world! We, the Qerberos team, are on the lookout for new teammates and would love for you to join us!
 
