@@ -43,4 +43,5 @@ Name: Sabarikirishwaran Ponnambalam (Sabari)
 *  😄 Pronouns: (he/him)
 *  ⚡ Fun fact: Experiencing quantum computing feels like approaching the speed of light, where time complexity diminishes exponentially.
 
-*  
+#How to do a code challange
+https://www.twitch.tv/videos/2060878251
