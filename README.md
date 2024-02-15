@@ -43,5 +43,16 @@ Name: Sabarikirishwaran Ponnambalam (Sabari)
 *  😄 Pronouns: (he/him)
 *  ⚡ Fun fact: Experiencing quantum computing feels like approaching the speed of light, where time complexity diminishes exponentially.
 
+Name: Hrushikesh Pramod Patil
+
+👋 Hi, I am  Hrushikesh Pramod Patil
+👀 I am interested in Quantum Error mitigation, Correction and compilation
+🌱 I am currently a researcher in Quantum Computing
+💞️ I am looking to win the hackathon
+📫 How to reach me on discord @hrushi19 
+😄 Pronouns: he/him
+⚡ Fun fact:
+
+
 #How to do a code challange
 https://www.twitch.tv/videos/2060878251
