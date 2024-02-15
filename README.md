@@ -61,6 +61,8 @@ We're excited to expand our team with individuals passionate about advancing qua
 * Pronouns: (he/him)
 * Fun fact:
 
+  # takeaway - reboot devices before the hackathon
+
 
 #How to do a code challange
 https://www.twitch.tv/videos/2060878251
