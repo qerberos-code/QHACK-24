@@ -62,6 +62,10 @@ We're excited to expand our team with individuals passionate about advancing qua
 * Fun fact:
 
   # takeaway - reboot devices before the hackathon
+  #            clear presentation, clear motivation, a working project. 
+  #            market research (technical and market)
+  #            presentation on the results (drug molecuar)
+  #            speed up shor algorithm 
 
 
 #How to do a code challange
