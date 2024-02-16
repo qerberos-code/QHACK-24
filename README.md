@@ -66,3 +66,19 @@ We're excited to expand our team with individuals passionate about advancing qua
 
 #How to do a code challange
 https://www.twitch.tv/videos/2060878251
+
+
+Resources:
+Example notebooks - https://github.com/aws/amazon-braket-examples
+Documentation - https://docs.aws.amazon.com/braket/
+Braket badge - https://aws.amazon.com/blogs/quantum-computing/introducing-the-amazon-braket-learning-plan-and-digital-badge/ 
+Blogs - getting started with Braket:
+Simulating quantum circuits with Amazon Braket | AWS Quantum Technolog...
+Noise in Quantum Computing | AWS Quantum Technologies Blog
+Introducing the Qiskit provider for Amazon Braket | AWS Quantum Techno...
+Analog Hamiltonian Simulation with Pennylane
+Braket Hybrid Jobs remote decorator 
+Blogs - quantum use cases:
+Designing hybrid algorithms for neutral-atom quantum hardware using Bayesian optimization 
+Fast-VQE on NISQ devices
+Robot trajectory planning with hybrid and quantum inspired algorithms  
