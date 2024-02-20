@@ -71,6 +71,8 @@ We're excited to expand our team with individuals passionate about advancing qua
 #How to do a code challange
 https://www.twitch.tv/videos/2060878251
 
+# Getting start with AWS Bracket (scroll to 5:15:00 market) 
+https://www.twitch.tv/videos/2064403907 
 
 Resources:
 Example notebooks - https://github.com/aws/amazon-braket-examples
