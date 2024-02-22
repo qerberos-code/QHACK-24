@@ -18,7 +18,7 @@ Title: If you give me a circuit, Qerberos can optimize it in 2 different ways
 # Idea 2 "SpliSimCo" method (Split, Simulate, and Combine)
 
 ![image](https://github.com/qerberos-code/QHACK-24/assets/158055549/b6d559ea-6d13-4fbe-871b-29ea8972f856)
-<img width="312" alt="image" src="https://github.com/qerberos-code/QHACK-24/assets/158055549/412ab758-6127-4966-b2e1-acad61500f23">
+![image](https://github.com/qerberos-code/QHACK-24/assets/158055549/412ab758-6127-4966-b2e1-acad61500f23)
 
 
 ## Workflow
