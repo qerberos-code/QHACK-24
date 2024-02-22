@@ -10,11 +10,18 @@ Title: If you give me a circuit, Qerberos can optimize it in 2 different ways
 
 ## Results
 
+# Idea 1 MCMR Implementation with MCTS Algorithm 
 
+![image](https://github.com/qerberos-code/QHACK-24/assets/158055549/e3a3a6e3-2694-471b-a790-62650e9b9edd) 
+
+
+# Idea 2 "SpliSimCo" method (Split, Simulate, and Combine)
+
+![image](https://github.com/qerberos-code/QHACK-24/assets/158055549/b6d559ea-6d13-4fbe-871b-29ea8972f856)
+<img width="312" alt="image" src="https://github.com/qerberos-code/QHACK-24/assets/158055549/412ab758-6127-4966-b2e1-acad61500f23">
 
 
 ## Workflow
-
 # Idea 1 MCMR Implementation with MCTS Algorithm 
 
 <img width="542" alt="image" src="https://github.com/qerberos-code/QHACK-24/assets/158055549/bbbc952d-a84b-49ec-988e-663727e29e82"> </img>
