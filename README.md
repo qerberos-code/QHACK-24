@@ -50,6 +50,13 @@ https://arxiv.org/pdf/2204.11890.pdf
 
 
 
+
+
+
+
+
+# Team Introduction Archived
+
 - 👋 Hi, We're Qerberos Team-QHACK 24
 - 👀 We're interested in quantum  Machine Learning
 - 🌱 We're  currently learning quantum computing
