@@ -2,10 +2,18 @@
 Team name: Qerberos
 In this Readme.md for the Sound of Silence Category, QHack 2024, we are including notebooks or pdfs in this repository. This repository will contain the entire project.
 
-## Summary: 
-Title: If you give me a circuit, Qerberos can optimize it in 2 different ways
+## Summary: Title: If you give me a circuit, Qerberos can optimize it in 2 different ways
+We explore two ideas: Idea 1 MCMR Implementation with MCTS Algorithm &  Idea 2 "SpliSimCo" method (Split, Simulate, and Combine)
+
+Idea 1 MCMR Implementation with MCTS Algorithm 
+The MCTS-MCMR approach represents a novel strategy for optimizing quantum circuits by leveraging the Monte Carlo Tree Search (MCTS) algorithm in conjunction with Mid Circuit Measurement and Reset (MCMR) techniques. This hybrid method aims to tackle the inherent scalability issues of quantum computing, particularly in simulating complex materials or large systems, by efficiently reducing the number of required qubits. MCTS guides the exploration and evaluation of circuit configurations, enabling the selective expansion of promising paths, while MCMR facilitates the reuse of qubits by allowing for measurements and resets within the computation. Although promising in reducing qubit requirements and enhancing the feasibility of executing complex algorithms on near-term quantum hardware, this approach faces challenges such as computational overhead, potential suboptimality of solutions, and hardware compatibility concerns. Overall, the MCTS-MCMR approach offers a significant advancement in quantum circuit optimization, paving the way for more practical and scalable quantum computing applications.
 
 
+Idea 2 "SpliSimCo" method (Split, Simulate, and Combine)
+As the NISQ era fades and the ISQ era advances, an important question arises: "What can we do with a few logically/error-free qubits?" Many fault-tolerant algorithms, such as QPE, Grover, and HHL, require a substantial number of qubits to operate effectively. However, if we could reduce the number of qubits required by such algorithms, it would represent a significant improvement and could expedite the timeline for which quantum computing could prove useful. In response to this challenge, we present our solution called "QuReduce," a compiler pipeline that has the potential to decrease the number of qubits needed. We have identified and propose solutions for three major problems within fault-tolerant algorithms:
+Divisible circuits with parts of their circuits being Clifford. (SpliSimCo)
+Use of ancilla qubits in circuits, which are utilized to encode dependent operations.
+Multi-control Toffoli gates that require ancilla qubits for proper translation. (TritReduct)
 
 
 ## Results for Idea 1 MCMR Implementation with MCTS Algorithm 
