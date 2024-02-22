@@ -1,4 +1,55 @@
 # QHACK-24
+
+
+## Summary:
+
+
+
+
+## Results
+
+
+
+
+## Workflow
+
+
+
+
+
+# Acknowledgements
+
+
+
+
+# References
+
+[1] Li et al., Quarl- A Learning-Based Quantum Circuit Optimizer, July 17, 2023
+
+[2] Decross et al., Qubit-Reuse Compilation with Mid-Circuit Measurement and Reset, December 22, 2023
+
+[3] Bello, L., Brańczyk, A. M., Bravyi, S., Carrera Vazquez, A., Eddins, A., Egger, D. J. Woerner, S. (2023). Circuit Knitting Toolbox. doi:10.5281/zenodo.7987997 
+
+[4] Tang, Wei, et al. "Cutqc: using small quantum computers for large quantum circuit evaluations." Proceedings of the 26th ACM International conference on architectural support for programming languages and operating systems. 2021.
+
+
+## Some related references
+
+[5] From NISQ to ISQ, Juan Miguel Arrazola (Xanadu), JUNE 21, 2023 https://pennylane.ai/blog/2023/06/from-nisq-to-isq/
+
+[6] Simulating key properties of lithium-ion batteries with a fault-tolerant quantum computer, Delgado et al., 2023
+https://arxiv.org/pdf/2204.11890.pdf
+
+[7] Quantum Circuit Cutting¶, Apte et al., September 1, 2022, https://pennylane.ai/qml/demos/tutorial_quantum_circuit_cutting/
+
+[8] P.1 Catch the phase, xanadu, 2024, https://codebook.xanadu.ai/P.1
+
+
+
+
+
+
+
 - 👋 Hi, We're Qerberos Team-QHACK 24
 - 👀 We're interested in quantum  Machine Learning
 - 🌱 We're  currently learning quantum computing
