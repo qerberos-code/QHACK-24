@@ -2,7 +2,9 @@
 Team name: Qerberos
 In this Readme.md for the Sound of Silence Category, QHack 2024, we are including notebooks or pdfs in this repository. This repository will contain the entire project.
 
-## Summary: Title: If you give me a circuit, Qerberos can optimize it in 2 different ways
+## Title: If you give me a circuit, Qerberos can optimize it in 2 different ways
+
+## Summary: 
 We explore two ideas: Idea 1 MCMR Implementation with MCTS Algorithm &  Idea 2 "SpliSimCo" method (Split, Simulate, and Combine)
 
 Idea 1 MCMR Implementation with MCTS Algorithm: 
