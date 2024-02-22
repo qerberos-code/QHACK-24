@@ -2,7 +2,8 @@
 Team name: Qerberos
 In this Readme.md for the Sound of Silence Category, QHack 2024, we are including notebooks or pdfs in this repository. This repository will contain the entire project.
 
-## Summary:
+## Summary: 
+Title: If you give me a circuit, Qerberos can optimize it in 2 different ways
 
 
 
@@ -14,6 +15,8 @@ In this Readme.md for the Sound of Silence Category, QHack 2024, we are includin
 
 ## Workflow
 
+
+<img width="409" alt="image" src="https://github.com/qerberos-code/QHACK-24/assets/158055549/c58712f5-d736-4cdd-bdeb-3324364e1503">
 
 
 
