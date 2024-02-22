@@ -18,6 +18,7 @@ Multi-control Toffoli gates that require ancilla qubits for proper translation. 
 
 ## Results for Idea 1 MCMR Implementation with MCTS Algorithm 
 
+![image](https://github.com/qerberos-code/QHACK-24/assets/158055549/4e48c352-7d50-4e70-bd5f-64fc8c5176aa)
 ![image](https://github.com/qerberos-code/QHACK-24/assets/158055549/e3a3a6e3-2694-471b-a790-62650e9b9edd) 
 
 
