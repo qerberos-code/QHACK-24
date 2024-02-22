@@ -17,6 +17,7 @@ Title: If you give me a circuit, Qerberos can optimize it in 2 different ways
 
 # Idea 1 MCMR Implementation with MCTS Algorithm 
 <img width="542" alt="image" src="https://github.com/qerberos-code/QHACK-24/assets/158055549/bbbc952d-a84b-49ec-988e-663727e29e82">
+
 We prioritize the most promising sequences of operations, reducing the need to explore less relevant paths that would otherwise increase the demand for qubits. 
 
 By applying MCTS to manage the sequence of quantum operations and measurements, it becomes possible to optimize the utilization of MCMR even in super large circuits, thus enhancing the scalability of quantum simulations. 
