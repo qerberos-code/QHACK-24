@@ -17,7 +17,7 @@ Optimizing quantum circuits poses challenges due to the large search space of fu
 
 **GitHub:** [Quarl](https://github.com/quantum-compiler/Quarl)
 
-###MCTS_MCMR
+##MCTS_MCMR
 
 This code demonstrates an advanced quantum circuit optimization process using Qiskit, a quantum computing framework. The code is structured into several key components, each contributing to a complex strategy aimed at optimizing quantum circuits, particularly focusing on qubit reuse and Monte Carlo Tree Search (MCTS) techniques. Here's a breakdown of its main functionalities:
 
