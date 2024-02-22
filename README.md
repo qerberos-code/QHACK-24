@@ -1,5 +1,6 @@
 # QHACK-24
-
+Team name: Qerberos
+In this Readme.md for the Sound of Silence Category, QHack 2024, we are including notebooks or pdfs in this repository. This repository will contain the entire project.
 
 ## Summary:
 
@@ -16,10 +17,17 @@
 
 
 
+Useful demo:
+ - Braket [tutorial notebook](https://docs.aws.amazon.com/braket/latest/developerguide/braket-get-started-hello-ahs.html#braket-get-started-analyzing-simulator-results) and [other notebook examples](https://github.com/aws/amazon-braket-examples/tree/main/examples/analog_hamiltonian_simulation) and [blog post on optimization](https://aws.amazon.com/blogs/quantum-computing/optimization-with-rydberg-atom-based-quantum-processor/), [braket doc](https://amazon-braket-sdk-python.readthedocs.io/en/latest/), [pennylane braket plugin](https://amazon-braket-pennylane-plugin-python.readthedocs.io/en/latest/)
+ - Pennylane https://pennylane.ai/qml/demos/tutorial_qgrnn.html
+ - Pennylane with Bracket https://docs.aws.amazon.com/braket/latest/developerguide/hybrid.html
+
 
 # Acknowledgements
 
-
+- We acknowledge power-ups from Aamzon Braket,through which most of the simulations shown were performed. We also thank power-up from NVIDIA. 
+- We thank Jordan Sullivan, and  Michael Brett from AWS for their help and debugging assistance.
+- We thank the QHack team for a fun and exciting experience !!!
 
 
 # References
