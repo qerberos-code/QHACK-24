@@ -2,20 +2,57 @@
 Team name: Qerberos
 In this Readme.md for the Sound of Silence Category, QHack 2024, we are including notebooks or pdfs in this repository. This repository will contain the entire project.
 
-## Summary:
+## Title: If you give me a circuit, Qerberos can optimize it in 2 different ways
+
+## Summary: 
+We explore two ideas: Idea 1 MCMR Implementation with MCTS Algorithm &  Idea 2 "SpliSimCo" method (Split, Simulate, and Combine)
+
+Idea 1 MCMR Implementation with MCTS Algorithm: 
+The MCTS-MCMR approach represents a novel strategy for optimizing quantum circuits by leveraging the Monte Carlo Tree Search (MCTS) algorithm in conjunction with Mid Circuit Measurement and Reset (MCMR) techniques. This hybrid method aims to tackle the inherent scalability issues of quantum computing, particularly in simulating complex materials or large systems, by efficiently reducing the number of required qubits. MCTS guides the exploration and evaluation of circuit configurations, enabling the selective expansion of promising paths, while MCMR facilitates the reuse of qubits by allowing for measurements and resets within the computation. Although promising in reducing qubit requirements and enhancing the feasibility of executing complex algorithms on near-term quantum hardware, this approach faces challenges such as computational overhead, potential suboptimality of solutions, and hardware compatibility concerns. Overall, the MCTS-MCMR approach offers a significant advancement in quantum circuit optimization, paving the way for more practical and scalable quantum computing applications.
+
+
+Idea 2 "SpliSimCo" method (Split, Simulate, and Combine):
+As the NISQ era fades and the ISQ era advances, an important question arises: "What can we do with a few logically/error-free qubits?" Many fault-tolerant algorithms, such as QPE, Grover, and HHL, require a substantial number of qubits to operate effectively. However, if we could reduce the number of qubits required by such algorithms, it would represent a significant improvement and could expedite the timeline for which quantum computing could prove useful. In response to this challenge, we present our solution called "QuReduce," a compiler pipeline that has the potential to decrease the number of qubits needed. We have identified and propose solutions for three major problems within fault-tolerant algorithms:
+Divisible circuits with parts of their circuits being Clifford. (SpliSimCo)
+Use of ancilla qubits in circuits, which are utilized to encode dependent operations.
+Multi-control Toffoli gates that require ancilla qubits for proper translation. (TritReduct)
+
+
+## Results for Idea 1 MCMR Implementation with MCTS Algorithm 
+
+![image](https://github.com/qerberos-code/QHACK-24/assets/158055549/4e48c352-7d50-4e70-bd5f-64fc8c5176aa)
+![image](https://github.com/qerberos-code/QHACK-24/assets/158055549/e3a3a6e3-2694-471b-a790-62650e9b9edd) 
+
+
+## Results for Idea 2 "SpliSimCo" method (Split, Simulate, and Combine)
+
+![image](https://github.com/qerberos-code/QHACK-24/assets/158055549/b6d559ea-6d13-4fbe-871b-29ea8972f856)
+![image](https://github.com/qerberos-code/QHACK-24/assets/158055549/412ab758-6127-4966-b2e1-acad61500f23)
+
+
+## Workflow for Idea 1 MCMR Implementation with MCTS Algorithm 
+
+<img width="542" alt="image" src="https://github.com/qerberos-code/QHACK-24/assets/158055549/bbbc952d-a84b-49ec-988e-663727e29e82"> </img>
 
 
 
+We prioritize the most promising sequences of operations, reducing the need to explore less relevant paths that would otherwise increase the demand for qubits. 
 
-## Results
+By applying MCTS to manage the sequence of quantum operations and measurements, it becomes possible to optimize the utilization of MCMR even in super large circuits, thus enhancing the scalability of quantum simulations. 
 
-
-
-
-## Workflow
+This approach can lead to more efficient quantum algorithms capable of simulating large-scale materials and molecules with fewer resources!
 
 
+## Workflow for Idea 2 "SpliSimCo" method (Split, Simulate, and Combine)
+<img width="409" alt="image" src="https://github.com/qerberos-code/QHACK-24/assets/158055549/c58712f5-d736-4cdd-bdeb-3324364e1503"></img>
 
+
+
+1.For circuits with parts that are Clifford, we know that Clifford circuits can be efficiently simulated on a quantum computer. 
+
+2. we understand that we can employ circuit cutting to reduce circuits into manageable sizes.
+ 
+3. Combining these two approaches, we propose the "SpliSimCo" method (Split, Simulate, and Combine), which we detail in the graph on the left.
 
 Useful demo:
  - Braket [tutorial notebook](https://docs.aws.amazon.com/braket/latest/developerguide/braket-get-started-hello-ahs.html#braket-get-started-analyzing-simulator-results) and [other notebook examples](https://github.com/aws/amazon-braket-examples/tree/main/examples/analog_hamiltonian_simulation) and [blog post on optimization](https://aws.amazon.com/blogs/quantum-computing/optimization-with-rydberg-atom-based-quantum-processor/), [braket doc](https://amazon-braket-sdk-python.readthedocs.io/en/latest/), [pennylane braket plugin](https://amazon-braket-pennylane-plugin-python.readthedocs.io/en/latest/)
